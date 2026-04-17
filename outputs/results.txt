@@ -1,0 +1,11 @@
+Scan Results — 2026-04-17 18:29:11
+Image: images/test_qr.png
+Total codes found: 1
+========================================
+
+Code #1
+  Type : QRCODE
+  Data : https://scanned.page/LRysA9
+  Position: (11, 11)
+  Size    : 312x312 px
+
