@@ -286,7 +286,7 @@ university Computer Vision course.
 <div align="center">
 
 **🔍 Barcode & QR Code Scanner**  
-Built with ❤️ by EL MANSSOURI Ismail · EL AZIZI Mohamed Taha · IBENOUAZI Ismail · EL KHAYATI Mouataze
+Built by EL MANSSOURI Ismail · EL AZIZI Mohamed Taha · IBENOUAZI Ismail · EL KHAYATI Mouataze
 
 [![GitHub](https://img.shields.io/badge/GitHub-barcode--qr--scanner-blue?logo=github)](https://github.com/Ismailelmanssouri/barcode-qr-scanner)
 
