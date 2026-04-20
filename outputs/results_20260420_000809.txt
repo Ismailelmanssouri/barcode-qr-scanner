@@ -1,0 +1,16 @@
+Code #1
+  Type : QRCODE
+  Data : my
+
+Code #2
+  Type : QRCODE
+  Data : is
+
+Code #3
+  Type : QRCODE
+  Data : lipu
+
+Code #4
+  Type : QRCODE
+  Data : name
+

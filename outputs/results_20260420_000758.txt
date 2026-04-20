@@ -1,0 +1,4 @@
+Code #1
+  Type : QRCODE
+  Data : http://en.m.wikipedia.org
+

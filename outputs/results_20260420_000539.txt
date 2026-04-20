@@ -1,0 +1,4 @@
+Code #1
+  Type : CODE128
+  Data : ABC-abc-1234
+
